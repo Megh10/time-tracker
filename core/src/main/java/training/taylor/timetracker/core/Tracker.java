@@ -1,3 +1,4 @@
+//This is my first project
 package training.taylor.timetracker.core;
 
 import org.springframework.beans.factory.annotation.Autowired;
